@@ -98,4 +98,4 @@ This project is licensed under the MIT License.
 
 - [OpenAI](https://openai.com/) for the API and powerful language models.
 - [Selenium](https://www.selenium.dev/) for web scraping capabilities.
-- [Streamlit](https://streamlit.io/) for providing an intuitive interface for data apps. 
+- [Streamlit](https://streamlit.io/) for providing an intuitive interface for data apps.
